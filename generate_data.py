@@ -4,7 +4,7 @@
 import pandas as pd
 
 data = pd.DataFrame({
-    "country": ["Switzerland", "Germany", "France", "Italy", "Spain"],
+    "country": ["India", "Germany", "France", "Italy", "Spain"],
     "gdp_bn_usd": [800, 4000, 2800, 2100, 1400],
     "year": 2023
 })
